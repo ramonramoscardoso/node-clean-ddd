@@ -5,6 +5,6 @@
   "tabWidth": 2,
   "bracketSpacing": true,
   "jsxBracketSameLine": false,
-  "arrowParens": "avoid",
+  "arrowParens": "always",
   "trailingComma": "all"
 }
